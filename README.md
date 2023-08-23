@@ -8,7 +8,7 @@ Chemistry graduate turned aspiring coder 🧪💻 | UBC alum | Exploring the wor
 
 * 🌍  I'm based in Vancouver, Canada
 * 🧠  I'm learning Javascript and React
-
+<img width=400px alt="programmer gif" src="programmer.gif" align="right">
 ### Skills
 
 
