@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KC Lim
 ==============================================================================================================================
 
-Front-end Web Developer
+Fullstack Developer
 -----------------------
 
-Chemistry graduate turned aspiring coder 🧪💻 | UBC alum | Exploring the world of software development | Enrolled in the Meta Front End course on Coursera 🌐 | Embracing the challenge of coding with curiosity and determination 🚀 | Transitioning into tech | Future-focused on projects and opportunities | Aspiring software engineer/developer | Crafting my coding journey towards impactful roles 🛠️
+Chemistry graduate turned aspiring coder 🧪💻 | UBC alum | Exploring the world of software development | Embracing the challenge of coding with curiosity and determination 🚀 | Transitioning into tech | Future-focused on projects and opportunities | Aspiring software engineer/developer | Crafting my coding journey towards impactful roles 🛠️
 <img width=400px alt="programmer gif" src="programmer.gif" align="right">
 * 🌍  I'm based in Vancouver, Canada
-* 🧠  I'm learning Javascript and React
+
 
 ### Skills
 
