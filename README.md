@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -----------------------
 
-Chemistry graduate turned aspiring coder 🧪💻 | UBC alum | Exploring the world of software development | Embracing the challenge of coding with curiosity and determination 🚀 | Transitioning into tech | Future-focused on projects and opportunities | Aspiring software engineer/developer | Crafting my coding journey towards impactful roles 🛠️
+Chemistry graduate turned aspiring coder 🧪💻 | University of British Columbia alumni | Exploring the world of software development | Embracing the challenge of coding with curiosity and determination 🚀 | Transitioning into tech | Future-focused on projects and opportunities | Aspiring software engineer/developer | Crafting my coding journey towards impactful roles 🛠️
 <img width=400px alt="programmer gif" src="programmer.gif" align="right">
-* 🌍  I'm based in Vancouver, Canada
+
 
 
 ### Skills
